@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Briana Theraube </title>
+	</head>
+	<body>
+		<header>
+			<h1>Briana Theraube</h1>
+			<nav>
+				<a href = "http://www.gmail.com">Gmail </a>
+            	<a href = "http://www.facebook.com">Facebook</a>
+           		<a href = "http://www.google.com">Google</a>
+           		<a href = "http://www.theraube.github.io">Github</a><br>
+			</nav>
+		</header>
+	<section>
+		<h2>Favorite Foods</h2>
+		<ul>
+			<li>Pizza</li>
+			<li>Ice Cream</li>
+			<li>Tomatoes</li>
+			<li>Bagels</li>
+		</ul>
+		</section>
+	<section>
+		<h3> Achievements</h3>
+		Progress in this course (100%)
+        <progress value="100" max="100"></progress>
+        <br>
+        Progress in the Specialization capstone (20%)
+        <progress value="20" max="100"></progress>
+        <br>
+        Progress in life goals (25%)
+        <progress value="25" max="100"></progress>
+	</section>
+		<h4> More About Me </h4>
+		<details>
+			<summary> My Childhood </summary> I grew up in New Jersey, right next to New York City. I enjoyed my time there but grateful to live in Colorado now. 
+		</details>
+	<footer>
+	     <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Web Design For Everyone">
+			<p>This page was created by Briana Theraube.</p>
+            <p>To learn more about webdesign, visit
+           <a href= "https://intro-webdesign.com/">Intro to Web Design</a></div>
+		</footer>
+	
+</body>
+</html>
+</DOCTYPE>
